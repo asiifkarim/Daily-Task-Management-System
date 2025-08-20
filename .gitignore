@@ -1,0 +1,22 @@
+# Python (Backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+venv/
+.env.local
+
+# Node.js / React (Frontend)
+node_modules/
+build/
+dist/
+*.log
+.npm
+.yarn
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
